@@ -97,8 +97,8 @@
     padding: 12px 20px;
     font-size: 18px;
     border: none;
-  }
-  .about-button:hover {
-    background-color: rgb(197, 101, 18);
-  }
+}
+.about-button:hover {
+  background-color: rgb(197, 101, 18);
+}
   
